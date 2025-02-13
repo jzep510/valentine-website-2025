@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "MAS TE VALE!!!! 🎉💝💖💝💓",
-        message: "Im sorry I cant be there mi amor but just know I love you!!",
+        message: "I love you so much beautiful!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
