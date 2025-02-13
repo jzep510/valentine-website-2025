@@ -66,7 +66,7 @@ body {
 }
 
 .cute-btn {
-    background: black;
+    background: #e60026;
     border: 2px solid white;
     padding: 10px 20px;
     margin: 10px;
@@ -79,7 +79,7 @@ body {
 
 .cute-btn:hover {
     transform: scale(1.1);
-    background: var(--button-hover);
+    background: #cc0022;
 }
 
 .hidden {
