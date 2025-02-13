@@ -16,7 +16,7 @@
 
 body {
    background-image: url(https://github.com/jzep510/valentine-website-2025/blob/main/Untitled%20design.jpg?raw=true);
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
